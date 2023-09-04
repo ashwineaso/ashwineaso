@@ -1,6 +1,5 @@
-### Hi, I'm Ashwin Easo
+### Ashwin Easo Zachariah
 
-I'm currently working as a Software Engineer at [DeliveryHero](https://github.com/deliveryhero).  
-I mostly work with Golang and Python. 
-
-Oh!, I like to design too. Visit [my portfolio](https://ashwineaso.github.io/) to check out a few projects I worked on. 
+- Software Engineer at [DeliveryHero](https://github.com/deliveryhero).  
+- Working with Go, Python and Javascript
+- Talk to me about Microservices, Serverless and 
